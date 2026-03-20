@@ -1,5 +1,4 @@
-
-#📊 UPI Transaction Data Analysis (Power BI Project)
+# 📊 UPI Transaction Data Analysis (Power BI Project)
 📌 Project Overview
 
 This project presents an interactive UPI Transactions Analysis Dashboard built using Power BI. It provides deep insights into transaction behavior across multiple dimensions such as bank usage, payment methods, demographics, and transaction trends over time.
