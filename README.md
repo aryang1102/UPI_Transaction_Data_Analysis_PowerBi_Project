@@ -107,6 +107,7 @@ Specific purposes like food and bill payments are most frequent
 Payment methods like QR code and phone number are widely used
 
 📸 Dashboard Preview
+
 🔹Balance_By_Line_Chart
 
 ![Dashboard Preview](Screenshot/Balance_By_Line_Chart.png)
